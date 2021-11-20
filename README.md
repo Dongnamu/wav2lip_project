@@ -1,3 +1,9 @@
+# Note
+This repository is originated from https://github.com/Rudrabha/Wav2Lip
+
+Full credit to radrabha.m@research.iiit.ac.in and prajwal.k@research.iiit.ac.in for this project.
+
+
 # **Wav2Lip**: *Accurately Lip-syncing Videos In The Wild*
 
 For commercial requests, please contact us at radrabha.m@research.iiit.ac.in or prajwal.k@research.iiit.ac.in. We have an HD model ready that can be used commercially.
