@@ -1,5 +1,5 @@
 # Note
-This repository is originated from https://github.com/Rudrabha/Wav2Lip
+This repository is almost a direct copy of https://github.com/Rudrabha/Wav2Lip
 
 Full credit to radrabha.m@research.iiit.ac.in and prajwal.k@research.iiit.ac.in for this project.
 
